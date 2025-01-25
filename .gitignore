@@ -9,6 +9,8 @@ managed_node_modules/***
 .ssl/key.pem
 .ssl/ssl.pfx
 
+.DS_Store
+
 # Logs
 logs
 *.log
